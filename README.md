@@ -1,3 +1,3 @@
-# My github page
+# My Github page
 
-##  Hi, i am Sakthi Harish.
+Hi, i am Sakthi Harish.
